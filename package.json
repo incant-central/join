@@ -1,6 +1,6 @@
 {
   "name": "@incant/join",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Join Task for Incant",
   "main": "index.js",
   "scripts": {
